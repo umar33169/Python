@@ -1,2 +1,2 @@
-# Python
-Python
+# Fundamental_Python(Indonesia)
+Fundamental_Python(Indonesia)
